@@ -1,9 +1,6 @@
 
 ---
 
-### ✅ Final `README.md`
-
-
 # 🧠 Face Cropping Microservice (Python + Node.js)
 
 This project is a hybrid image-processing tool that uses:
