@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "axios": "^1.8.4",
+    "canvas": "^3.1.0",
+    "express": "^5.1.0",
+    "facecrop": "file:",
+    "form-data": "^4.0.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "facecrop",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
